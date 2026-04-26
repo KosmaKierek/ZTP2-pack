@@ -2,9 +2,3 @@
 app/var
 app/vendor
 *.cache
-var
-vendor
-.php_cs.cache
-.php-cs-fixer.cache
-.phpunit.result.cache
-.env
